@@ -1,0 +1,1 @@
+Incresed Cam resolution
