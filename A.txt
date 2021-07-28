@@ -1,1 +1,2 @@
 File A is added
+New line is added
